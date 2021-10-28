@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center" style="margin: -20px 0 30px">
+<p align="center" style="margin: -25px 0 25px">
    <a href="/" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
   </a>
@@ -38,7 +38,7 @@ I'm a Full-Stack developer who likes to work with JavaScript/Typescript (Preact,
 <div>
 **I'm a Night 🦉** 
 
-```text
+```text                                                            
 🌞 Morning    115 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.59% 
 🌆 Daytime    488 commits    █████████░░░░░░░░░░░░░░░░   36.47% 
 🌃 Evening    446 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
