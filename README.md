@@ -1,14 +1,7 @@
-- 👋 Hi, I’m @AnkitNayak7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Ankit Nayak
 
-<!---
-AnkitNayak7/AnkitNayak7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
+<div align="right">
+  <a href="https://aralroca.com/donate">
+    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
+  </a>
 </div>
