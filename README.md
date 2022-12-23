@@ -17,13 +17,13 @@ Software Development, Product Management, Product Design, Project Planning, Soft
 <a  href="https://www.knowledgelens.com/"> <img  align='right'  src="https://www.knowledgelens.com/new-launch/assets/img/kl-logo.png"  height="40"></a>
 <h3  align="left">Technology Lead</h3>
 <p  align='left'>📍Bangalore, India | 📅September 2019 - Present</p>
-Updating...
+
 
 
 <a  href="https://www.knowledgelens.com/"> <img  align='right'  src="https://www.knowledgelens.com/new-launch/assets/img/kl-logo.png"  height="40"></a>
 <h3  align="left">Jr. Data Scientist</h3>
 <p  align='left'>📍Bangalore, India | 📅November 2017 - September 2019</p>
-Updating...
+
 
 
 <h2>Top Skills</h2>
