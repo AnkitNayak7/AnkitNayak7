@@ -5,7 +5,7 @@
 <h2  align="left">✏️ Summary</h2>
 
 <p> 
-  Updating...
+  A passionate Software Developer 🚀 having an experience of building Web applications with Python / Flask / SQL & NoSql Database and some other cool libraries and frameworks
 </p>
 
 
