@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 <h1  align="center">Ankit Nayak</h1>
-<p align="center"><a href="www.linkedin.com/in/ankit-nayak21">Software Developer and Project Manager</p>
+<p align="center"><a href="https://www.linkedin.com/in/ankit-nayak21/">Software Developer and Project Manager</p>
 
 ![](https://i.imgur.com/waxVImv.png)
 
