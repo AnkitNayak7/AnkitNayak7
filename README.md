@@ -20,18 +20,24 @@ Technical Program & Project Manager with **8+ years** delivering enterprise-scal
 
 ### 📈 Impact at a glance
 
+
 <div align="center">
-<table width="40%" border="0" cellspacing="0" cellpadding="8">
+  <div style="width: 70%;">
+<table border="0" cellspacing="0" cellpadding="8" width="100%">
   <tr>
-    <td align="center"><br><strong>~20%</strong><br><br>delivery effort saved<br><br></td>
-    <td align="center"><br><strong>~30%</strong><br><br>fewer project delays<br><br></td>
-    <td align="center"><br><strong>~60%</strong><br><br>faster query execution<br><br></td>
-    <td align="center"><br><strong>500K+</strong><br><br>records processed/month<br><br></td>
-    <td align="center"><br><strong>~45%</strong><br><br>less system downtime<br><br></td>
-    <td align="center"><br><strong>~25%</strong><br><br>faster root-cause analysis<br><br></td>
+    <td align="center"><strong>~20%</strong><br>delivery effort saved</td>
+    <td align="center"><strong>~30%</strong><br>fewer project delays</td>
+    <td align="center"><strong>~60%</strong><br>faster query execution</td>
+    <td align="center"><strong>500K+</strong><br>records processed/month</td>
+    <td align="center"><strong>~45%</strong><br>less system downtime</td>
+    <td align="center"><strong>~25%</strong><br>faster root-cause analysis</td>
   </tr>
 </table>
+
+  </div>
 </div>
+
+Change w
 
 ---
 
