@@ -1,32 +1,20 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/44x6/E74C3C/E74C3C">
-<img src="https://via.placeholder.com/44x6/E67E22/E67E22">
-<img src="https://via.placeholder.com/44x6/F39C12/F39C12">
-<img src="https://via.placeholder.com/44x6/27AE60/27AE60">
-<img src="https://via.placeholder.com/44x6/1F5AA6/1F5AA6">
-<img src="https://via.placeholder.com/44x6/7E6BD6/7E6BD6">
+🟥 🟧 🟨 🟩 🟦 🟪
 
-# <span style="font-size:36px;">Ankit Nayak</span>
+# Ankit Nayak
 
-### <span style="color:#2F66C3;">Technical Project Manager · Data & Cloud Platforms · Bengaluru, India</span>
+### Technical Project Manager · Data & Cloud Platforms · Bengaluru, India
 
 <br>
 
-![Experience](https://img.shields.io/badge/8%2B_yrs_experience-DCEBFF?style=for-the-badge&logoColor=black&labelColor=DCEBFF&color=DCEBFF)
-&nbsp;
-![PMP](https://img.shields.io/badge/PMP_Candidate-E6F4D7?style=for-the-badge&logoColor=black&labelColor=E6F4D7&color=E6F4D7)
-&nbsp;
-![Open](https://img.shields.io/badge/Open_to_opportunities-F6ECD2?style=for-the-badge&logoColor=black&labelColor=F6ECD2&color=F6ECD2)
+![Experience](https://img.shields.io/badge/8%2B_yrs_experience-DCEBFF?style=for-the-badge&labelColor=DCEBFF&color=DCEBFF)
+![PMP](https://img.shields.io/badge/PMP_Candidate-E6F4D7?style=for-the-badge&labelColor=E6F4D7&color=E6F4D7)
+![Open](https://img.shields.io/badge/Open_to_opportunities-F6ECD2?style=for-the-badge&labelColor=F6ECD2&color=F6ECD2)
 
 <br><br>
 
-<img src="https://via.placeholder.com/44x6/7E6BD6/7E6BD6">
-<img src="https://via.placeholder.com/44x6/1F5AA6/1F5AA6">
-<img src="https://via.placeholder.com/44x6/27AE60/27AE60">
-<img src="https://via.placeholder.com/44x6/F39C12/F39C12">
-<img src="https://via.placeholder.com/44x6/E67E22/E67E22">
-<img src="https://via.placeholder.com/44x6/E74C3C/E74C3C">
+🟪 🟦 🟩 🟨 🟧 🟥
 
 </div>
 
