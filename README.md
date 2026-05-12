@@ -20,7 +20,8 @@ Technical Program & Project Manager with **8+ years** delivering enterprise-scal
 
 ### 📈 Impact at a glance
 
-<table width="100%">
+<div align="center">
+<table width="80%" border="0" cellspacing="0" cellpadding="8">
   <tr>
     <td align="center"><br><strong>~20%</strong><br><br>delivery effort saved<br><br></td>
     <td align="center"><br><strong>~30%</strong><br><br>fewer project delays<br><br></td>
@@ -30,6 +31,7 @@ Technical Program & Project Manager with **8+ years** delivering enterprise-scal
     <td align="center"><br><strong>~25%</strong><br><br>faster root-cause analysis<br><br></td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -98,14 +100,16 @@ Built incident management platform (Support Lens) — automated classification &
 
 ### 🏆 Awards & recognition
 
-<table width="100%">
+<div align="center">
+<table width="80%" border="0" cellspacing="0" cellpadding="8">
   <tr>
-    <td align="center" width="25%"><br>📋 <b>PMP® Candidate</b><br>Active PMI member · 2025<br><br></td>
-    <td align="center" width="25%"><br>🥇 <b>Extra Mile Award</b><br>Sept 2021 · Knowledge Lens<br><br></td>
-    <td align="center" width="25%"><br>🏛️ <b>Govt. of Karnataka Appreciation</b><br>Aug 2020 · COVID-19 IT support<br><br></td>
-    <td align="center" width="25%"><br>🌟 <b>Best Initiator of the Year</b><br>Nov 2018 · Knowledge Lens<br><br></td>
+    <td align="center"><br>📋 <b>PMP® Candidate</b><br>Active PMI member · 2025<br><br></td>
+    <td align="center"><br>🥇 <b>Extra Mile Award</b><br>Sept 2021 · Knowledge Lens<br><br></td>
+    <td align="center"><br>🏛️ <b>Govt. of Karnataka Appreciation</b><br>Aug 2020 · COVID-19 IT support<br><br></td>
+    <td align="center"><br>🌟 <b>Best Initiator of the Year</b><br>Nov 2018 · Knowledge Lens<br><br></td>
   </tr>
 </table>
+</div>
 
 ---
 
