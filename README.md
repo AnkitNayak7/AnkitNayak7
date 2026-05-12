@@ -35,10 +35,10 @@ Technical Program & Project Manager with **8+ years** delivering enterprise-scal
 
 ### 💼 Professional experience
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
 <tr>
 <td><strong>Technical Project Manager</strong><br>Rockwell Automation &nbsp;·&nbsp; Bangalore</td>
-<td align="right"><code>Aug 2022 – Present</code></td>
+<td align="right" width="180" bgcolor="#FC6D26"><strong><font color="#ffffff">&nbsp;Aug 2022 – Present&nbsp;</font></strong></td>
 </tr>
 </table>
 
@@ -46,10 +46,10 @@ Led Industry 4.0 digitalization across Aarti Industries, Exide, Grasim TRC (Thai
 
 ---
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
 <tr>
 <td><strong>Technology Lead</strong><br>Knowledge Lens (A Rockwell Automation Co.) &nbsp;·&nbsp; Bangalore</td>
-<td align="right"><code>Nov 2020 – Jul 2022</code></td>
+<td align="right" width="180" bgcolor="#185FA5"><strong><font color="#ffffff">&nbsp;Nov 2020 – Jul 2022&nbsp;</font></strong></td>
 </tr>
 </table>
 
@@ -57,10 +57,10 @@ Product Owner for Pfizer's iRME / PKM ecosystem. Delivered Visual Recipe Builder
 
 ---
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
 <tr>
 <td><strong>Technical Consultant — Data Engineering & Analytics</strong><br>ZS Associates &nbsp;·&nbsp; Bangalore</td>
-<td align="right"><code>Apr 2018 – Oct 2020</code></td>
+<td align="right" width="180" bgcolor="#1D9E75"><strong><font color="#ffffff">&nbsp;Apr 2018 – Oct 2020&nbsp;</font></strong></td>
 </tr>
 </table>
 
@@ -68,10 +68,10 @@ Built fault-tolerant pipelines for Amgen on AWS (Lambda, Step Functions, S3, Dat
 
 ---
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
 <tr>
 <td><strong>Software Development Engineer</strong><br>Knowledge Lens &nbsp;·&nbsp; Bangalore</td>
-<td align="right"><code>Nov 2017 – Mar 2020</code></td>
+<td align="right" width="180" bgcolor="#888780"><strong><font color="#ffffff">&nbsp;Nov 2017 – Mar 2020&nbsp;</font></strong></td>
 </tr>
 </table>
 
