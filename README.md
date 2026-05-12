@@ -1,12 +1,32 @@
 <div align="center">
 
-# Ankit Nayak
+<img src="https://via.placeholder.com/44x6/E74C3C/E74C3C">
+<img src="https://via.placeholder.com/44x6/E67E22/E67E22">
+<img src="https://via.placeholder.com/44x6/F39C12/F39C12">
+<img src="https://via.placeholder.com/44x6/27AE60/27AE60">
+<img src="https://via.placeholder.com/44x6/1F5AA6/1F5AA6">
+<img src="https://via.placeholder.com/44x6/7E6BD6/7E6BD6">
 
-**Technical Project Manager · Data & Cloud Platforms · Bengaluru, India**
+# <span style="font-size:36px;">Ankit Nayak</span>
 
-[![exp](https://img.shields.io/badge/8%2B_yrs_experience-E8F0FE?style=flat-square&color=e8f0fe&labelColor=e8f0fe)](.)
-[![pmp](https://img.shields.io/badge/PMP®_Candidate-FFF3E0?style=flat-square&color=fff3e0&labelColor=fff3e0)](.)
-[![open](https://img.shields.io/badge/Open_to_opportunities-E8F5E9?style=flat-square&color=e8f5e9&labelColor=e8f5e9)](.)
+### <span style="color:#2F66C3;">Technical Project Manager · Data & Cloud Platforms · Bengaluru, India</span>
+
+<br>
+
+![Experience](https://img.shields.io/badge/8%2B_yrs_experience-DCEBFF?style=for-the-badge&logoColor=black&labelColor=DCEBFF&color=DCEBFF)
+&nbsp;
+![PMP](https://img.shields.io/badge/PMP_Candidate-E6F4D7?style=for-the-badge&logoColor=black&labelColor=E6F4D7&color=E6F4D7)
+&nbsp;
+![Open](https://img.shields.io/badge/Open_to_opportunities-F6ECD2?style=for-the-badge&logoColor=black&labelColor=F6ECD2&color=F6ECD2)
+
+<br><br>
+
+<img src="https://via.placeholder.com/44x6/7E6BD6/7E6BD6">
+<img src="https://via.placeholder.com/44x6/1F5AA6/1F5AA6">
+<img src="https://via.placeholder.com/44x6/27AE60/27AE60">
+<img src="https://via.placeholder.com/44x6/F39C12/F39C12">
+<img src="https://via.placeholder.com/44x6/E67E22/E67E22">
+<img src="https://via.placeholder.com/44x6/E74C3C/E74C3C">
 
 </div>
 
