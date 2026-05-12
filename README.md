@@ -21,7 +21,7 @@ Technical Program & Project Manager with **8+ years** delivering enterprise-scal
 ### 📈 Impact at a glance
 
 <div align="center">
-<table width="65%" border="0" cellspacing="0" cellpadding="8">
+<table width="40%" border="0" cellspacing="0" cellpadding="8">
   <tr>
     <td align="center"><br><strong>~20%</strong><br><br>delivery effort saved<br><br></td>
     <td align="center"><br><strong>~30%</strong><br><br>fewer project delays<br><br></td>
