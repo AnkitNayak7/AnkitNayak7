@@ -2,18 +2,15 @@
 
 <img width="291" height="10" alt="top-bar" src="https://github.com/user-attachments/assets/be4dafb0-5f5d-4525-a944-fa1a24f575b8" />
 
-<div style="
-  font-size: 2.2em;
-  font-weight: 600;
-  line-height: 1.25;
-  margin-top: 10px;
-">
+<div style="font-size: 2.2em; font-weight: 700; line-height: 1.2; margin-top: 12px; margin-bottom: 8px;">
   Ankit Nayak
 </div>
-<br>
-<b>Technical Project Manager · Data & Cloud Platforms · Bengaluru, India</b>
 
-<br><br>
+<div style="font-size: 1.05em; font-weight: 600;">
+  Technical Project Manager · Data & Cloud Platforms · Bengaluru, India
+</div>
+
+<br>
 
 [![Experience](https://img.shields.io/badge/8%2B_yrs_experience-E8F0FE?style=flat-square&color=e8f0fe&labelColor=e8f0fe)](.)
 [![PMP](https://img.shields.io/badge/PMP®_Candidate-FFF3E0?style=flat-square&color=fff3e0&labelColor=fff3e0)](.)
