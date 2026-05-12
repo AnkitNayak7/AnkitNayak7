@@ -37,8 +37,6 @@ Technical Program & Project Manager with **8+ years** delivering enterprise-scal
   </div>
 </div>
 
-Change w
-
 ---
 
 ### 💼 Professional experience
@@ -91,14 +89,18 @@ Built incident management platform (Support Lens) — automated classification &
 ### 🏆 Awards & recognition
 
 <div align="center">
-<table width="80%" border="0" cellspacing="0" cellpadding="8">
+  <div style="width: 80%;">
+
+<table border="0" cellspacing="0" cellpadding="8" width="100%">
   <tr>
-    <td align="center"><br>📋 <b>PMP® Candidate</b><br>Active PMI member · 2025<br><br></td>
-    <td align="center"><br>🥇 <b>Extra Mile Award</b><br>Sept 2021 · Knowledge Lens<br><br></td>
-    <td align="center"><br>🏛️ <b>Govt. of Karnataka Appreciation</b><br>Aug 2020 · COVID-19 IT support<br><br></td>
-    <td align="center"><br>🌟 <b>Best Initiator of the Year</b><br>Nov 2018 · Knowledge Lens<br><br></td>
+    <td align="center">📋 <b>PMP® Candidate</b><br>Active PMI member · 2025</td>
+    <td align="center">🥇 <b>Extra Mile Award</b><br>Sept 2021 · Knowledge Lens</td>
+    <td align="center">🏛️ <b>Govt. of Karnataka Appreciation</b><br>Aug 2020 · COVID-19 IT support</td>
+    <td align="center">🌟 <b>Best Initiator of the Year</b><br>Nov 2018 · Knowledge Lens</td>
   </tr>
 </table>
+
+  </div>
 </div>
 
 ---
