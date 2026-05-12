@@ -2,7 +2,12 @@
 
 <img width="291" height="10" alt="top-bar" src="https://github.com/user-attachments/assets/be4dafb0-5f5d-4525-a944-fa1a24f575b8" />
 
-<div style="font-size:84px; font-weight:700; margin-top:10px;">
+<div style="
+  font-size: 2.2em;
+  font-weight: 600;
+  line-height: 1.25;
+  margin-top: 10px;
+">
   Ankit Nayak
 </div>
 <br>
