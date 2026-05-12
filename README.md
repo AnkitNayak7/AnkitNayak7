@@ -1,22 +1,4 @@
-<div align="center">
-
-🟥 🟧 🟨 🟩 🟦 🟪
-
-# Ankit Nayak
-
-### Technical Project Manager · Data & Cloud Platforms · Bengaluru, India
-
-<br>
-
-![Experience](https://img.shields.io/badge/8%2B_yrs_experience-DCEBFF?style=for-the-badge&labelColor=DCEBFF&color=DCEBFF)
-![PMP](https://img.shields.io/badge/PMP_Candidate-E6F4D7?style=for-the-badge&labelColor=E6F4D7&color=E6F4D7)
-![Open](https://img.shields.io/badge/Open_to_opportunities-F6ECD2?style=for-the-badge&labelColor=F6ECD2&color=F6ECD2)
-
-<br><br>
-
-🟪 🟦 🟩 🟨 🟧 🟥
-
-</div>
+<div align="center"> # Ankit Nayak **Technical Project Manager · Data & Cloud Platforms · Bengaluru, India** [![exp](https://img.shields.io/badge/8%2B_yrs_experience-E8F0FE?style=flat-square&color=e8f0fe&labelColor=e8f0fe)](.) [![pmp](https://img.shields.io/badge/PMP®_Candidate-FFF3E0?style=flat-square&color=fff3e0&labelColor=fff3e0)](.) [![open](https://img.shields.io/badge/Open_to_Opportunities-E8F5E9?style=flat-square&color=e8f5e9&labelColor=e8f5e9)](.) </div>
 
 ---
 
