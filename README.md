@@ -22,7 +22,8 @@ Technical Program & Project Manager with **8+ years** delivering enterprise-scal
 
 
 <div align="center">
-  <div style="width: 80%;">
+  <div style="width: 80%; background-color: #f6f8fa; padding: 14px; border-radius: 10px;">
+
 <table border="0" cellspacing="0" cellpadding="8" width="100%">
   <tr>
     <td align="center"><strong>~20%</strong><br>delivery effort saved</td>
