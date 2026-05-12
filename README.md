@@ -5,6 +5,7 @@
 <div style="font-size:84px; font-weight:700; margin-top:10px;">
   Ankit Nayak
 </div>
+<br>
 <b>Technical Project Manager · Data & Cloud Platforms · Bengaluru, India</b>
 
 <br><br>
