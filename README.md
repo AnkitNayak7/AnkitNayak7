@@ -37,59 +37,31 @@ Technical Program & Project Manager with **8+ years** delivering enterprise-scal
 
 ### 💼 Professional experience
 
-<table width="100%" cellspacing="0" cellpadding="14" style="border-collapse:collapse; border:none; background:#f6f8fa;">
-<tr><td>
-<table width="100%" cellspacing="0" cellpadding="0" border="0" style="border:none;">
-<tr>
-<td valign="middle" style="border:none;"><strong>Technical Project Manager</strong><br><sup>Rockwell Automation &nbsp;·&nbsp; Bangalore</sup></td>
-<td valign="middle" align="right" style="border:none;"><img src="https://img.shields.io/badge/Aug_2022_–_Present-FC6D26?style=flat-square&logoColor=white" alt="Aug 2022 – Present"></td>
-</tr>
-</table>
-<br>Led Industry 4.0 digitalization across Aarti Industries, Exide, Grasim TRC (Thailand), and Sekhmet Pharma — covering RTMI platforms, Energy Management, Chiller Digitalization, and Digital BPR. Owned end-to-end DataOps delivery with AWS IoT Hub, Kafka streaming, KairosDB time-series, and PostgreSQL.
-</td></tr>
-</table>
+**Technical Project Manager** &nbsp; <img src="https://img.shields.io/badge/Aug_2022_–_Present-FC6D26?style=flat-square&logoColor=white" alt="Aug 2022 – Present">
+<br><sub>Rockwell Automation &nbsp;·&nbsp; Bangalore</sub>
+
+Led Industry 4.0 digitalization across Aarti Industries, Exide, Grasim TRC (Thailand), and Sekhmet Pharma — covering RTMI platforms, Energy Management, Chiller Digitalization, and Digital BPR. Owned end-to-end DataOps delivery with AWS IoT Hub, Kafka streaming, KairosDB time-series, and PostgreSQL.
 
 <br>
 
-<table width="100%" cellspacing="0" cellpadding="14" style="border-collapse:collapse; border:none; background:#f6f8fa;">
-<tr><td>
-<table width="100%" cellspacing="0" cellpadding="0" border="0" style="border:none;">
-<tr>
-<td valign="middle" style="border:none;"><strong>Technology Lead</strong><br><sup>Knowledge Lens (A Rockwell Automation Co.) &nbsp;·&nbsp; Bangalore</sup></td>
-<td valign="middle" align="right" style="border:none;"><img src="https://img.shields.io/badge/Nov_2020_–_Jul_2022-185FA5?style=flat-square&logoColor=white" alt="Nov 2020 – Jul 2022"></td>
-</tr>
-</table>
-<br>Product Owner for Pfizer's iRME / PKM ecosystem. Delivered Visual Recipe Builder enhancements and QRM (FMEA/Cause-and-Effect) platform for clinical & drug testing workflows. Designed XML-based source-to-target mappings across AMPS–PDAP–PKM integrations.
-</td></tr>
-</table>
+**Technology Lead** &nbsp; <img src="https://img.shields.io/badge/Nov_2020_–_Jul_2022-185FA5?style=flat-square&logoColor=white" alt="Nov 2020 – Jul 2022">
+<br><sub>Knowledge Lens (A Rockwell Automation Co.) &nbsp;·&nbsp; Bangalore</sub>
+
+Product Owner for Pfizer's iRME / PKM ecosystem. Delivered Visual Recipe Builder enhancements and QRM (FMEA/Cause-and-Effect) platform for clinical & drug testing workflows. Designed XML-based source-to-target mappings across AMPS–PDAP–PKM integrations.
 
 <br>
 
-<table width="100%" cellspacing="0" cellpadding="14" style="border-collapse:collapse; border:none; background:#f6f8fa;">
-<tr><td>
-<table width="100%" cellspacing="0" cellpadding="0" border="0" style="border:none;">
-<tr>
-<td valign="middle" style="border:none;"><strong>Technical Consultant — Data Engineering & Analytics</strong><br><sup>ZS Associates &nbsp;·&nbsp; Bangalore</sup></td>
-<td valign="middle" align="right" style="border:none;"><img src="https://img.shields.io/badge/Apr_2018_–_Oct_2020-1D9E75?style=flat-square&logoColor=white" alt="Apr 2018 – Oct 2020"></td>
-</tr>
-</table>
-<br>Built fault-tolerant pipelines for Amgen on AWS (Lambda, Step Functions, S3, Databricks, Redshift). Processed 500K+ non-conformance records/month. Built Spotfire dashboards reducing RCA time by ~25%.
-</td></tr>
-</table>
+**Technical Consultant — Data Engineering & Analytics** &nbsp; <img src="https://img.shields.io/badge/Apr_2018_–_Oct_2020-1D9E75?style=flat-square&logoColor=white" alt="Apr 2018 – Oct 2020">
+<br><sub>ZS Associates &nbsp;·&nbsp; Bangalore</sub>
+
+Built fault-tolerant pipelines for Amgen on AWS (Lambda, Step Functions, S3, Databricks, Redshift). Processed 500K+ non-conformance records/month. Built Spotfire dashboards reducing RCA time by ~25%.
 
 <br>
 
-<table width="100%" cellspacing="0" cellpadding="14" style="border-collapse:collapse; border:none; background:#f6f8fa;">
-<tr><td>
-<table width="100%" cellspacing="0" cellpadding="0" border="0" style="border:none;">
-<tr>
-<td valign="middle" style="border:none;"><strong>Software Development Engineer</strong><br><sup>Knowledge Lens &nbsp;·&nbsp; Bangalore</sup></td>
-<td valign="middle" align="right" style="border:none;"><img src="https://img.shields.io/badge/Nov_2017_–_Mar_2020-888780?style=flat-square&logoColor=white" alt="Nov 2017 – Mar 2020"></td>
-</tr>
-</table>
-<br>Built incident management platform (Support Lens) — automated classification & assignment workflows, cutting manual effort by 50%. Also built AQI monitoring pipelines and R Shiny dashboards for air quality sensor data from 50+ devices.
-</td></tr>
-</table>
+**Software Development Engineer** &nbsp; <img src="https://img.shields.io/badge/Nov_2017_–_Mar_2020-888780?style=flat-square&logoColor=white" alt="Nov 2017 – Mar 2020">
+<br><sub>Knowledge Lens &nbsp;·&nbsp; Bangalore</sub>
+
+Built incident management platform (Support Lens) — automated classification & assignment workflows, cutting manual effort by 50%. Also built AQI monitoring pipelines and R Shiny dashboards for air quality sensor data from 50+ devices.
 
 ---
 
