@@ -45,7 +45,7 @@ Led Industry 4.0 digitalization across Aarti Industries, Exide, Grasim TRC (Thai
 <br>
 
 **Technology Lead** &nbsp; <img src="https://img.shields.io/badge/Nov_2020_–_Jul_2022-185FA5?style=flat-square&logoColor=white" alt="Nov 2020 – Jul 2022">
-<br><sub>Knowledge Lens (A Rockwell Automation Co.) &nbsp;·&nbsp; Bangalore</sub>
+<br><sub>Knowledge Lens - A Rockwell Automation Company, Bangalore</sub>
 
 Product Owner for Pfizer's iRME / PKM ecosystem. Delivered Visual Recipe Builder enhancements and QRM (FMEA/Cause-and-Effect) platform for clinical & drug testing workflows. Designed XML-based source-to-target mappings across AMPS–PDAP–PKM integrations.
 
