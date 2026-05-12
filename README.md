@@ -2,8 +2,9 @@
 
 <img width="291" height="10" alt="top-bar" src="https://github.com/user-attachments/assets/be4dafb0-5f5d-4525-a944-fa1a24f575b8" />
 
-<h2>Ankit Nayak</h2>
-<br>
+<div style="font-size:84px; font-weight:700; margin-top:10px;">
+  Ankit Nayak
+</div>
 <b>Technical Project Manager · Data & Cloud Platforms · Bengaluru, India</b>
 
 <br><br>
