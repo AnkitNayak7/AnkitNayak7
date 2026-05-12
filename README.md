@@ -1,4 +1,5 @@
 <div align="center">
+<img width="291" height="10" alt="image" src="https://github.com/user-attachments/assets/be4dafb0-5f5d-4525-a944-fa1a24f575b8" />
 
 # Ankit Nayak
 
@@ -6,7 +7,9 @@
 
 [![exp](https://img.shields.io/badge/8%2B_yrs_experience-E8F0FE?style=flat-square&color=e8f0fe&labelColor=e8f0fe)](.)
 [![pmp](https://img.shields.io/badge/PMP®_Candidate-FFF3E0?style=flat-square&color=fff3e0&labelColor=fff3e0)](.)
-[![open](https://img.shields.io/badge/Open_to_opportunities-E8F5E9?style=flat-square&color=e8f5e9&labelColor=e8f5e9)](.)
+[![open](https://img.shields.io/badge/Open_to_Opportunities-E8F5E9?style=flat-square&color=e8f5e9&labelColor=e8f5e9)](.)
+
+<img width="290" height="8" alt="image" src="https://github.com/user-attachments/assets/43ac09c2-cfc9-4e71-84a3-5d8554e4896f" />
 
 </div>
 
