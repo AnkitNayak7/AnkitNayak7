@@ -2,7 +2,6 @@
 <img width="291" height="10" alt="image" src="https://github.com/user-attachments/assets/be4dafb0-5f5d-4525-a944-fa1a24f575b8" />
 
 # Ankit Nayak
-
 **Technical Project Manager · Data & Cloud Platforms · Bengaluru, India**
 
 [![exp](https://img.shields.io/badge/8%2B_yrs_experience-E8F0FE?style=flat-square&color=e8f0fe&labelColor=e8f0fe)](.)
