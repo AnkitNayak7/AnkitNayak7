@@ -20,50 +20,40 @@ Technical Program & Project Manager with **8+ years** delivering enterprise-scal
 
 ### 📈 Impact at a glance
 
-<div align="center">
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="170"><br><strong>~20%</strong><br><br>delivery effort saved<br><br></td>
-    <td align="center" width="170"><br><strong>~30%</strong><br><br>fewer project delays<br><br></td>
-    <td align="center" width="170"><br><strong>~60%</strong><br><br>faster query execution<br><br></td>
-    <td align="center" width="170"><br><strong>500K+</strong><br><br>records processed/month<br><br></td>
-  </tr>
-  <tr>
-    <td align="center" width="170"><br><strong>~45%</strong><br><br>less system downtime<br><br></td>
-    <td align="center" width="170"><br><strong>~25%</strong><br><br>faster root-cause analysis<br><br></td>
-    <td align="center" width="170"></td>
-    <td align="center" width="170"></td>
+    <td align="center"><br><strong>~20%</strong><br><br>delivery effort saved<br><br></td>
+    <td align="center"><br><strong>~30%</strong><br><br>fewer project delays<br><br></td>
+    <td align="center"><br><strong>~60%</strong><br><br>faster query execution<br><br></td>
+    <td align="center"><br><strong>500K+</strong><br><br>records processed/month<br><br></td>
+    <td align="center"><br><strong>~45%</strong><br><br>less system downtime<br><br></td>
+    <td align="center"><br><strong>~25%</strong><br><br>faster root-cause analysis<br><br></td>
   </tr>
 </table>
-</div>
 
 ---
 
 ### 💼 Professional experience
 
-**Technical Project Manager** &nbsp;&nbsp; ![badge](https://img.shields.io/badge/Aug_2022_–_Present-FC6D26?style=flat-square&logoColor=white)
-Rockwell Automation · Bangalore
+<table width="100%"><tr><td><strong>Technical Project Manager</strong><br>Rockwell Automation &nbsp;·&nbsp; Bangalore</td><td align="right">![badge](https://img.shields.io/badge/Aug_2022_–_Present-FC6D26?style=flat-square&logoColor=white)</td></tr></table>
 
 Led Industry 4.0 digitalization across Aarti Industries, Exide, Grasim TRC (Thailand), and Sekhmet Pharma — covering RTMI platforms, Chiller Digitalization, and Digital BPR. Owned end-to-end DataOps delivery with AWS IoT Hub, Kafka streaming, KairosDB time-series, and PostgreSQL.
 
 ---
 
-**Technology Lead** &nbsp;&nbsp; ![badge](https://img.shields.io/badge/Nov_2020_–_Jul_2022-185FA5?style=flat-square&logoColor=white)
-Knowledge Lens (A Rockwell Automation Co.) · Bangalore
+<table width="100%"><tr><td><strong>Technology Lead</strong><br>Knowledge Lens (A Rockwell Automation Co.) &nbsp;·&nbsp; Bangalore</td><td align="right">![badge](https://img.shields.io/badge/Nov_2020_–_Jul_2022-185FA5?style=flat-square&logoColor=white)</td></tr></table>
 
 Product Owner for Pfizer's iRME / PKM ecosystem. Delivered Visual Recipe Builder enhancements and QRM (FMEA/Cause-and-Effect) platform for clinical & drug testing workflows. Designed XML-based source-to-target mappings across AMPS–PDAP–PKM integrations.
 
 ---
 
-**Technical Consultant — Data Engineering & Analytics** &nbsp;&nbsp; ![badge](https://img.shields.io/badge/Apr_2018_–_Oct_2020-1D9E75?style=flat-square&logoColor=white)
-ZS Associates · Bangalore
+<table width="100%"><tr><td><strong>Technical Consultant — Data Engineering & Analytics</strong><br>ZS Associates &nbsp;·&nbsp; Bangalore</td><td align="right">![badge](https://img.shields.io/badge/Apr_2018_–_Oct_2020-1D9E75?style=flat-square&logoColor=white)</td></tr></table>
 
 Built fault-tolerant pipelines for Amgen on AWS (Lambda, Step Functions, S3, Databricks, Redshift). Processed 500K+ non-conformance records/month. Built Spotfire dashboards reducing RCA time by ~25%.
 
 ---
 
-**Software Development Engineer** &nbsp;&nbsp; ![badge](https://img.shields.io/badge/Nov_2017_–_Mar_2020-888780?style=flat-square&logoColor=white)
-Knowledge Lens · Bangalore
+<table width="100%"><tr><td><strong>Software Development Engineer</strong><br>Knowledge Lens &nbsp;·&nbsp; Bangalore</td><td align="right">![badge](https://img.shields.io/badge/Nov_2017_–_Mar_2020-888780?style=flat-square&logoColor=white)</td></tr></table>
 
 Built incident management platform (Support Lens) — automated classification & assignment workflows, cutting manual effort by 50%. Also built AQI monitoring pipelines and R Shiny dashboards for air quality sensor data from 50+ devices.
 
@@ -88,16 +78,14 @@ Built incident management platform (Support Lens) — automated classification &
 
 ### 🏆 Awards & recognition
 
-<div align="center">
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="170"><br>📋 <b>PMP® Candidate</b><br>Active PMI member · 2025<br><br></td>
-    <td align="center" width="170"><br>🥇 <b>Extra Mile Award</b><br>Sept 2021 · Knowledge Lens<br><br></td>
-    <td align="center" width="170"><br>🏛️ <b>Govt. of Karnataka Appreciation</b><br>Aug 2020 · COVID-19 IT support<br><br></td>
-    <td align="center" width="170"><br>🌟 <b>Best Initiator of the Year</b><br>Nov 2018 · Knowledge Lens<br><br></td>
+    <td align="center" width="25%"><br>📋 <b>PMP® Candidate</b><br>Active PMI member · 2025<br><br></td>
+    <td align="center" width="25%"><br>🥇 <b>Extra Mile Award</b><br>Sept 2021 · Knowledge Lens<br><br></td>
+    <td align="center" width="25%"><br>🏛️ <b>Govt. of Karnataka Appreciation</b><br>Aug 2020 · COVID-19 IT support<br><br></td>
+    <td align="center" width="25%"><br>🌟 <b>Best Initiator of the Year</b><br>Nov 2018 · Knowledge Lens<br><br></td>
   </tr>
 </table>
-</div>
 
 ---
 
