@@ -22,10 +22,9 @@ Technical Program & Project Manager with **8+ years** delivering enterprise-scal
 
 
 <div align="center">
-  <div style="width: 80%; background-color: #f6f8fa; padding: 14px; border-radius: 10px;">
 
-<table border="0" cellspacing="0" cellpadding="8" width="100%">
-  <tr>
+<table width="80%" cellspacing="0" cellpadding="12">
+  <tr bgcolor="#f6f8fa">
     <td align="center"><strong>~20%</strong><br>delivery effort saved</td>
     <td align="center"><strong>~30%</strong><br>fewer project delays</td>
     <td align="center"><strong>~60%</strong><br>faster query execution</td>
@@ -35,7 +34,6 @@ Technical Program & Project Manager with **8+ years** delivering enterprise-scal
   </tr>
 </table>
 
-  </div>
 </div>
 
 ---
