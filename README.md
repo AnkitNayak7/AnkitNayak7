@@ -37,47 +37,71 @@ Technical Program & Project Manager with **8+ years** delivering enterprise-scal
 
 ### 💼 Professional experience
 
-<table width="100%" border="0" cellspacing="0" cellpadding="4">
+<table width="100%" border="1" cellspacing="0" cellpadding="12" style="border-collapse:collapse; border-color:#e1e4e8;">
 <tr>
-<td><strong>Technical Project Manager</strong><br>Rockwell Automation &nbsp;·&nbsp; Bangalore</td>
-<td align="right" width="180" bgcolor="#FC6D26"><strong><font color="#ffffff">&nbsp;Aug 2022 – Present&nbsp;</font></strong></td>
+<td>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><strong>Technical Project Manager</strong><br><sub>Rockwell Automation · Bangalore</sub></td>
+<td align="right" bgcolor="#FC6D26" width="160"><strong><font color="#ffffff">&nbsp;Aug 2022 – Present&nbsp;</font></strong></td>
+</tr>
+</table>
+<br>
+Led Industry 4.0 digitalization across Aarti Industries, Exide, Grasim TRC (Thailand), and Sekhmet Pharma — covering RTMI platforms, Energy Management, Chiller Digitalization, and Digital BPR. Owned end-to-end DataOps delivery with AWS IoT Hub, Kafka streaming, KairosDB time-series, and PostgreSQL.
+</td>
 </tr>
 </table>
 
-Led Industry 4.0 digitalization across Aarti Industries, Exide, Grasim TRC (Thailand), and Sekhmet Pharma — covering RTMI platforms, Chiller Digitalization, and Digital BPR. Owned end-to-end DataOps delivery with AWS IoT Hub, Kafka streaming, KairosDB time-series, and PostgreSQL.
+<br>
 
----
-
-<table width="100%" border="0" cellspacing="0" cellpadding="4">
+<table width="100%" border="1" cellspacing="0" cellpadding="12" style="border-collapse:collapse; border-color:#e1e4e8;">
 <tr>
-<td><strong>Technology Lead</strong><br>Knowledge Lens (A Rockwell Automation Co.) &nbsp;·&nbsp; Bangalore</td>
-<td align="right" width="180" bgcolor="#185FA5"><strong><font color="#ffffff">&nbsp;Nov 2020 – Jul 2022&nbsp;</font></strong></td>
+<td>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><strong>Technology Lead</strong><br><sub>Knowledge Lens (A Rockwell Automation Co.) · Bangalore</sub></td>
+<td align="right" bgcolor="#185FA5" width="160"><strong><font color="#ffffff">&nbsp;Nov 2020 – Jul 2022&nbsp;</font></strong></td>
 </tr>
 </table>
-
+<br>
 Product Owner for Pfizer's iRME / PKM ecosystem. Delivered Visual Recipe Builder enhancements and QRM (FMEA/Cause-and-Effect) platform for clinical & drug testing workflows. Designed XML-based source-to-target mappings across AMPS–PDAP–PKM integrations.
-
----
-
-<table width="100%" border="0" cellspacing="0" cellpadding="4">
-<tr>
-<td><strong>Technical Consultant — Data Engineering & Analytics</strong><br>ZS Associates &nbsp;·&nbsp; Bangalore</td>
-<td align="right" width="180" bgcolor="#1D9E75"><strong><font color="#ffffff">&nbsp;Apr 2018 – Oct 2020&nbsp;</font></strong></td>
+</td>
 </tr>
 </table>
 
+<br>
+
+<table width="100%" border="1" cellspacing="0" cellpadding="12" style="border-collapse:collapse; border-color:#e1e4e8;">
+<tr>
+<td>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><strong>Technical Consultant — Data Engineering & Analytics</strong><br><sub>ZS Associates · Bangalore</sub></td>
+<td align="right" bgcolor="#1D9E75" width="160"><strong><font color="#ffffff">&nbsp;Apr 2018 – Oct 2020&nbsp;</font></strong></td>
+</tr>
+</table>
+<br>
 Built fault-tolerant pipelines for Amgen on AWS (Lambda, Step Functions, S3, Databricks, Redshift). Processed 500K+ non-conformance records/month. Built Spotfire dashboards reducing RCA time by ~25%.
-
----
-
-<table width="100%" border="0" cellspacing="0" cellpadding="4">
-<tr>
-<td><strong>Software Development Engineer</strong><br>Knowledge Lens &nbsp;·&nbsp; Bangalore</td>
-<td align="right" width="180" bgcolor="#888780"><strong><font color="#ffffff">&nbsp;Nov 2017 – Mar 2020&nbsp;</font></strong></td>
+</td>
 </tr>
 </table>
 
+<br>
+
+<table width="100%" border="1" cellspacing="0" cellpadding="12" style="border-collapse:collapse; border-color:#e1e4e8;">
+<tr>
+<td>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><strong>Software Development Engineer</strong><br><sub>Knowledge Lens · Bangalore</sub></td>
+<td align="right" bgcolor="#888780" width="160"><strong><font color="#ffffff">&nbsp;Nov 2017 – Mar 2020&nbsp;</font></strong></td>
+</tr>
+</table>
+<br>
 Built incident management platform (Support Lens) — automated classification & assignment workflows, cutting manual effort by 50%. Also built AQI monitoring pipelines and R Shiny dashboards for air quality sensor data from 50+ devices.
+</td>
+</tr>
+</table>
 
 ---
 
