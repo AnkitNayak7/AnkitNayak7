@@ -92,7 +92,7 @@ Built incident management platform (Support Lens) — automated classification &
 
 <table border="0" cellspacing="0" cellpadding="8" width="100%">
   <tr>
-    <td align="center">📋 <b>PMP® Candidate</b><br>Active PMI member · 2025</td>
+    <td align="center">📋 <b>PMP® Certified</b><br>Active PMI member · June 2026</td>
     <td align="center">🥇 <b>Extra Mile Award</b><br>Sept 2021 · Knowledge Lens</td>
     <td align="center">🏛️ <b>Govt. of Karnataka Appreciation</b><br>Aug 2020 · COVID-19 IT support</td>
     <td align="center">🌟 <b>Best Initiator of the Year</b><br>Nov 2018 · Knowledge Lens</td>
